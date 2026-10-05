@@ -1,0 +1,42 @@
+{
+  "name": "hybrid-review-classifier",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Classify player reviews with fast local rules first, and let Claude refine only what the rules are unsure about.",
+  "license": "MIT",
+  "author": "José Toro <jltorocode@gmail.com> (https://jltorocode.com)",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "classify": "tsx src/cli.ts",
+    "demo": "tsx src/cli.ts examples/reviews.json --explain",
+    "eval": "tsx eval/evaluate.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "classification",
+    "llm",
+    "claude",
+    "anthropic",
+    "reviews",
+    "sentiment",
+    "gamedev",
+    "steam"
+  ],
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}

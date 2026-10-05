@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "b001",
+    "source": "reddit",
+    "recommended": null,
+    "text": "En Moss & Lantern, en el puzle de los espejos del sótano, si giras la lente mientras el farero sigue caminando se queda pegado y no responde nada, ni siquiera el menú de pausa. Tuve que cerrarlo desde el administrador de tareas y el autoguardado me deja justo en ese punto otra vez. Estoy atascado, no puedo avanzar.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b002",
+    "source": "youtube",
+    "recommended": null,
+    "text": "wow, another 'cozy' puzzle game where you walk slowly and read notes. so innovative.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b003",
+    "source": "steam",
+    "recommended": false,
+    "text": "Three problems. One: runs are way too long for how little changes, 45 minutes and the last 20 are the same three enemy types. Two: merchant prices scale so fast that by storm 5 you can't afford anything. Three: meta-progression is so slow it feels like a mobile timer. I put 14 hours in hoping it would open up after unlocking the second ship, and it really doesn't - the new hull just changes your stats a little. The crab crew is adorable and the storm visuals are great, I'll give it that. But a roguelite lives or dies on whether you want to start another run, and after the fifth one I just didn't. Nice art, but the loop doesn't hold up.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b004",
+    "source": "steam",
+    "recommended": true,
+    "text": "Not what I expected from a $12 game. Not even close. It's so much better.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b005",
+    "source": "steam",
+    "recommended": true,
+    "text": "I don't usually write reviews. I don't usually finish games either. Finished this one twice.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b006",
+    "source": "steam",
+    "recommended": true,
+    "text": "Crab.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b007",
+    "source": "discord",
+    "recommended": null,
+    "text": "estaria bueno un boton para adelantar los dialogos en pocket paladin, a la tercera run ya me los se de memoria",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b008",
+    "source": "discord",
+    "recommended": null,
+    "text": "anyone else gettin their keybinds reset evry time they restart pocket paladin? had to rebind dodge like 5 times now",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b009",
+    "source": "twitch",
+    "recommended": null,
+    "text": "QUE CHIDA ESTA LA MUSICA DE ESTA PARTE GUEY",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b010",
+    "source": "steam",
+    "recommended": true,
+    "text": "El juego está bien, pero en el puerto del mercader se pone a tirones horrible, pasa de ir fluido a parecer presentación de diapositivas. Tengo una 3070 y en el resto del juego va perfecto. Lo recomiendo con esa advertencia.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b011",
+    "source": "youtube",
+    "recommended": null,
+    "text": "primero 🦀",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b012",
+    "source": "instagram",
+    "recommended": null,
+    "text": "puros anuncios en la version de celu, que wea mas penca 🙄",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b013",
+    "source": "steam",
+    "recommended": true,
+    "text": "Me encantaría poder ponerle nombre a los cangrejos de la tripulación. Uno les agarra cariño y después se los lleva una ola sin que sepas ni cómo se llamaban 😢",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b014",
+    "source": "steam",
+    "recommended": true,
+    "text": "No lo compren. Van a perder toda su vida social. 10/10",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b015",
+    "source": "youtube",
+    "recommended": null,
+    "text": "How do you get past the mirror room in chapter 4?? been rotating things for an hour",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b016",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "grabbed this in the summer sale, onto the backlog pile it goes",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b017",
+    "source": "discord",
+    "recommended": null,
+    "text": "idea: let player 2 in co-op pick an actual different paladin class instead of a recolor of player 1",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b018",
+    "source": "steam",
+    "recommended": false,
+    "text": "fome",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b019",
+    "source": "steam",
+    "recommended": false,
+    "text": "Llego a la tercera tormenta en Tidebound y pum, se me sale al escritorio. Sin mensaje, sin nada. Van cuatro veces y cada vez pierdo la run completa. Me encantaría recomendarlo pero así no se puede.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b020",
+    "source": "steam",
+    "recommended": true,
+    "text": "la raja este juego weon, los cangrejos marineros son lo mas tierno que he visto en mi vida, me lo pase en 2 dias",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b021",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Pocket Paladin on PC feels like a phone port. Giant UI buttons, menus built for thumbs instead of a mouse, and the energy system is still there even though I paid full price. Why am I waiting on a timer in a $15 PC game?",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b022",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Bought the Co-op Pack on iOS, got charged $4.99, and the co-op button is still locked. Restored purchases twice, nothing. Not cool.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b023",
+    "source": "steam",
+    "recommended": true,
+    "text": "Why did nobody warn me a game about a lighthouse keeper would wreck me emotionally? Anyway. 10/10, bring tissues.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b024",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Great game!! I made $3,200 this week working from home with just my phone, check my profile to see how 💸",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b025",
+    "source": "steam",
+    "recommended": true,
+    "text": "---{ Graphics }---\n☐ You forget what reality is\n☑ Beautiful\n☐ Decent\n☐ Bad\n---{ Gameplay }---\n☑ Very good\n☐ Good\n☐ It's just gameplay\n☐ Mehh\n---{ Price }---\n☐ Free\n☑ Worth the price\n☐ Wait for sale\n---{ Bugs }---\n☐ Never heard of\n☑ Minor bugs\n☐ Can get annoying\n☐ The game itself is a big bug",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b026",
+    "source": "instagram",
+    "recommended": null,
+    "text": "🔥 Want 10K real followers for your game? We promote indie devs! DM for prices 🔥",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b027",
+    "source": "steam",
+    "recommended": true,
+    "text": "Lo compré en oferta, todavía no lo abro.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b028",
+    "source": "instagram",
+    "recommended": null,
+    "text": "merchant crab plushie when?? 🦀🦀 I'd buy three",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b029",
+    "source": "steam",
+    "recommended": true,
+    "text": "Pocket Paladin es re zarpado, el boss rush con un amigo en coop es una joda bárbara. Posta que vale cada peso.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b030",
+    "source": "steam",
+    "recommended": false,
+    "text": "Una lástima que el co-op sea solo local.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b031",
+    "source": "steam",
+    "recommended": true,
+    "text": "Recommended, barely. It's pretty and the story's fine, but it's 2.5 hours for $20 and half of that is walking up and down the same staircase. Wait for a sale.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b032",
+    "source": "discord",
+    "recommended": null,
+    "text": "Does Pocket Paladin's co-op work with Remote Play Together, or do we both need a copy?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b033",
+    "source": "steam",
+    "recommended": true,
+    "text": "peak",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b034",
+    "source": "steam",
+    "recommended": true,
+    "text": "Solid roguelite. Would kill for a seeded daily run with a leaderboard though, it'd give me a reason to boot it up every morning.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b035",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "Moss & Lantern understands quiet. No timers, no fail states, just you, a lighthouse and a letter that slowly makes sense. Played it with rain outside and it was perfect.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b036",
+    "source": "discord",
+    "recommended": null,
+    "text": "whoever designed the third boss should never be allowed near a keyboard again. absolute clown",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b037",
+    "source": "steam",
+    "recommended": true,
+    "text": "Genuinely gorgeous little puzzle game. Tiny thing: the lantern glow shows through the walls on the second floor, which looks a bit off. Doesn't affect anything. Otherwise a gem.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b038",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Where does Tidebound keep its save files on Windows? Moving to a new PC and I really don't want to lose 60 hours.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b039",
+    "source": "reddit",
+    "recommended": null,
+    "text": "PSA for Tidebound: if you buy the Iron Hull upgrade and then get boarded during a storm, the crab crew stops responding and you can't steer or open the menu. Only way out is Alt+F4 and the run is gone. Happened twice, reproducible on seed 44871. Pretty rough after a 40-minute run.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b040",
+    "source": "steam",
+    "recommended": false,
+    "text": "Never gets past the splash screen on my Steam Deck. Black screen with the lantern logo, forever. Tried Proton 9 and Experimental. Can't tell you if the game is good because I can't play it.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b041",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Ojalá Moss & Lantern tuviera modo foto. Hay rincones del faro que dan ganas de dejarlos de fondo de pantalla.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b042",
+    "source": "steam",
+    "recommended": false,
+    "text": "Muy caro para lo que dura. Lo terminé en 3 horas y media, no tiene rejugabilidad y los puzles se resuelven siempre con la misma lógica. A USD 19,99 no lo vale, espérenlo en oferta.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b043",
+    "source": "discord",
+    "recommended": null,
+    "text": "oigan cabros, el joystick de xbox no me lo reconoce en pocket paladin, me toca jugar con teclado nomas. a alguien mas le pasa?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b044",
+    "source": "steam",
+    "recommended": false,
+    "text": "mid",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b045",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Pocket Paladin's boss rush is the most fun I've had in co-op in years. Parry windows are tight but fair, and the pixel art on the final boss is unreal.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b046",
+    "source": "steam",
+    "recommended": true,
+    "text": "Buen roguelite. Lo único: que el mercader también compre mejoras de vuelta, así uno no queda amarrado a una build que no sirve.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b047",
+    "source": "twitch",
+    "recommended": null,
+    "text": "F por el cangrejo Pedrito 🫡",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b048",
+    "source": "reddit",
+    "recommended": null,
+    "text": "My cat sat on the keyboard and rotated the lantern puzzle into the right position. She's the lighthouse keeper now.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b049",
+    "source": "instagram",
+    "recommended": null,
+    "text": "no manches, abro el juego en mi cel y se queda la pantalla negra y ya 😭 samsung a54",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b050",
+    "source": "twitch",
+    "recommended": null,
+    "text": "el juego viene con voces en español o solo textos?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b051",
+    "source": "twitch",
+    "recommended": null,
+    "text": "this boss music goes hard",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b052",
+    "source": "steam",
+    "recommended": true,
+    "text": "Check out my curator page for honest reviews of indie games like this one! Link in my profile, follow for more 🙏",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b053",
+    "source": "steam",
+    "recommended": true,
+    "text": "¿Se puede agrandar la letra de alguna forma? En la Steam Deck casi no alcanzo a leer los diarios del farero.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b054",
+    "source": "steam",
+    "recommended": false,
+    "text": "Runs fine for about 20 minutes, then it just closes to desktop. No error message, nothing in the logs I can find. Verified files, updated drivers, same thing every time. Refunding unless there's a fix soon.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b055",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Me cobraron dos veces el pack del Paladín de Hielo en Android (dos cargos de $2.990 el mismo día). ¿Cómo pido que me devuelvan uno?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b056",
+    "source": "discord",
+    "recommended": null,
+    "text": "hola! una consulta, si compro pocket paladin en steam puedo seguir la partida que tengo en el celu o van por separado?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b057",
+    "source": "steam",
+    "recommended": true,
+    "text": "The crab crew has no business being this charming. Every run I get attached to some little guy and then a wave takes him. Storms feel dangerous, upgrades actually change how you play, and the merchant's lines are genuinely funny.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b058",
+    "source": "instagram",
+    "recommended": null,
+    "text": "Hermoso juego ❤️ Te invito a pasar por mi cuenta, hago arte pixel por encargo a buen precio 🎨 escríbeme al DM",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b059",
+    "source": "steam",
+    "recommended": false,
+    "text": "Los devs son unos flojos inútiles que no saben ni programar un jueguito de celular. Vayan a buscarse una pega de verdad.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b060",
+    "source": "steam",
+    "recommended": false,
+    "text": "stutters like crazy on AMD cards",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b061",
+    "source": "youtube",
+    "recommended": null,
+    "text": "¿Va a salir en Switch? Mi hermano chico no tiene PC y quiere jugar el de los cangrejos 🦀",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b062",
+    "source": "youtube",
+    "recommended": null,
+    "text": "who's here after the Next Fest stream?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b063",
+    "source": "steam",
+    "recommended": true,
+    "text": "Please add a colorblind option, the red and green storm markers look identical to me. Great game otherwise.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b064",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Muy buen video!! Si quieres juegos de Steam a mitad de precio pásate por mi perfil, tengo claves baratas 100% legales 🔥🔥",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b065",
+    "source": "instagram",
+    "recommended": null,
+    "text": "cuando llega el modo coop a android?? en pc ya está hace rato",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b066",
+    "source": "steam",
+    "recommended": true,
+    "text": "Qué juegazo. ¿Quién necesita dormir cuando hay tormentas que esquivar?",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b067",
+    "source": "twitch",
+    "recommended": null,
+    "text": "otra vez la tormenta?? que paja wn",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b068",
+    "source": "instagram",
+    "recommended": null,
+    "text": "Will the Tidebound soundtrack be on Bandcamp? The storm theme has been living in my head rent-free 🎶",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b069",
+    "source": "twitch",
+    "recommended": null,
+    "text": "WHY IS EVERYTHING IN THIS GAME SO SLOW LMAO",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b070",
+    "source": "steam",
+    "recommended": true,
+    "text": "Terminé Moss & Lantern y me quedé un buen rato mirando los créditos sin moverme. Pocas veces un juego tan chico me deja así.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b071",
+    "source": "twitch",
+    "recommended": null,
+    "text": "si no arreglan el guardado los voy a ir a buscar al estudio, sé dónde queda en santiago, después no lloren",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b072",
+    "source": "steam",
+    "recommended": false,
+    "text": "Excelente la actualización, me borró las 12 horas que llevaba en Pocket Paladin. Abro el juego y la partida está vacía, como si nunca hubiera jugado. Gracias totales 👏",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b073",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "@neoinitgames is a physical release of Moss & Lantern planned at all?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b074",
+    "source": "discord",
+    "recommended": null,
+    "text": "@Nacho_mod sos un pelotudo, me baneaste por nada, mod de cuarta",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b075",
+    "source": "steam",
+    "recommended": true,
+    "text": "Moss & Lantern es precioso, la música del faro me tiene hipnotizado y los puzles están muy bien pensados. Solo un detalle: en el capítulo 3 los subtítulos aparecen en inglés aunque tengo todo en español. Nada grave nomás.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b076",
+    "source": "reddit",
+    "recommended": null,
+    "text": "It'd be great if the hint system in Moss & Lantern gave a small nudge first instead of the full solution. Right now it's all or nothing.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b077",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "Loved the first couple hours of Tidebound. Then it just turned into a chore.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b078",
+    "source": "steam",
+    "recommended": true,
+    "text": "Beat it in one sitting and now I'm wondering: any chance of a Switch port? This would be perfect in handheld.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b079",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Of course it's garbage, what did you expect from third-world devs. Go back to making empanadas.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b080",
+    "source": "steam",
+    "recommended": true,
+    "text": "Lo recomiendo porque los devs son chilenos y hay que apoyar, pero siendo honesto: la dificultad del boss rush está mal calibrada, el tercer jefe te mata de un golpe y los checkpoints están lejísimos. Frustra más de lo que entretiene.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b081",
+    "source": "steam",
+    "recommended": false,
+    "text": "puse que no por error jaja, el juego esta muy bueno, apoyen a los cabros de neoinit",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b082",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "Moss & Lantern es de esos juegos que te bajan las revoluciones. Faro, lluvia, un puzle a la vez. Justo lo que necesitaba esta semana.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b083",
+    "source": "steam",
+    "recommended": false,
+    "text": "La historia está bien, pero el juego te hace volver cinco veces al mismo acantilado a juntar musgo: sin atajos, sin viaje rápido y con el farero caminando lentísimo. Es relleno para estirar la duración. Encima la cámara es fija y a veces el propio faro tapa los objetos que tienes que encontrar.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "b084",
+    "source": "twitch",
+    "recommended": null,
+    "text": "hope someone burns that studio down with all of you inside",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "b085",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "Your devlogs are the reason I bought it. A tiny studio from Chile shipping something this polished is huge, keep going.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  }
+]

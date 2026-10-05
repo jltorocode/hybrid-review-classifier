@@ -1,0 +1,16 @@
+[
+  { "id": "r1", "source": "steam", "recommended": false, "helpfulVotes": 41, "text": "Crashes to desktop every time I load my save after chapter 3. Lost about 6 hours of progress. Unplayable until this is fixed." },
+  { "id": "r2", "source": "steam", "recommended": true, "text": "No bugs, runs great on the Steam Deck and the soundtrack is a banger. 10/10" },
+  { "id": "r3", "source": "steam", "recommended": true, "text": "Great art, but the game freezes every time I open the map." },
+  { "id": "r4", "source": "youtube", "text": "Would be perfect with online co-op 🙏" },
+  { "id": "r5", "source": "discord", "text": "is there controller support on mac?" },
+  { "id": "r6", "source": "steam", "recommended": false, "text": "Best game ever. Totally worth the $30 for 2 hours of content." },
+  { "id": "r7", "source": "steam", "recommended": true, "text": "Está la raja, me tiene enganchado jajaja. Eso sí, se pega un poco en la pantalla de carga." },
+  { "id": "r8", "source": "steam", "recommended": false, "text": "Muy fome y repetitivo, no vale la pena a ese precio. Esperen una oferta." },
+  { "id": "r9", "source": "instagram", "text": "🔥 FREE SKINS 🔥 check out my channel, link in bio" },
+  { "id": "r10", "source": "youtube", "text": "¿Cuándo sale la versión para Switch? Mi hijo quiere jugarlo sí o sí" },
+  { "id": "r11", "source": "steam", "recommended": true, "text": "---{ Graphics }--- ☐ Bad ☐ Decent ☑ Beautiful ---{ Price }--- ☐ Wait for a sale ☑ Worth the price ---{ Bugs }--- ☑ Never heard of ☐ Minor bugs ☐ The game is a big bug" },
+  { "id": "r12", "source": "reddit", "text": "the devs are clowns, uninstalling" },
+  { "id": "r13", "source": "steam", "recommended": true, "text": "Crab." },
+  { "id": "r14", "source": "steam", "recommended": true, "text": "Das Spiel ist wunderschön, aber viel zu kurz." }
+]

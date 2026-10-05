@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "a001",
+    "source": "steam",
+    "recommended": true,
+    "text": "Juegazo, lo único es que a veces la caña queda flotando en el aire después de sacar un pez jaja. Nada grave, 9/10",
+    "expected": {
+      "sentiment": "positive",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a002",
+    "source": "twitch",
+    "recommended": null,
+    "text": "this game is dogshit lmao",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a003",
+    "source": "steam",
+    "recommended": false,
+    "text": "I love this game, genuinely. The art, the music, the little bird. But I can't recommend it at full price when it's over in 4 hours and there's basically no reason to replay it. Wait for a sale.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a004",
+    "source": "steam",
+    "recommended": true,
+    "text": "Oh great, another cozy game that's going to eat my entire weekend. Thanks a lot, devs. Now I have to go fish for feathers instead of doing laundry.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a005",
+    "source": "steam",
+    "recommended": true,
+    "text": "Would be cool if you could dye the bird's scarf with the feathers you collect. Right now they just sit in the journal.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a006",
+    "source": "steam",
+    "recommended": true,
+    "text": "I named the bird Kevin.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a007",
+    "source": "discord",
+    "recommended": null,
+    "text": "seria bacan un modo pantalla dividida pa jugar con mi hermano chico po, ahora tenemos que turnarnos el control",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a008",
+    "source": "steam",
+    "recommended": false,
+    "text": "Stutters like crazy on Steam Deck despite the Verified badge. 25-30 fps on the city tracks, feels awful for a racer. Refunded.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a009",
+    "source": "steam",
+    "recommended": true,
+    "text": "Juegazo.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a010",
+    "source": "steam",
+    "recommended": false,
+    "text": "Me quedé atrapado en el pantano de los sauces: el pájaro cayó detrás de una roca y no puede salir ni volando ni caminando. No hay opción de 'desatascar' y el último guardado es de hace una hora. Softlock total, no vuelvo a jugar hasta que lo arreglen.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a011",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Primero 😎",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a012",
+    "source": "youtube",
+    "recommended": null,
+    "text": "weon el juego es una mierda, 3 pistas y ya lo viste todo",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a013",
+    "source": "steam",
+    "recommended": true,
+    "text": "Ojalá agreguen un modo foto, hay rincones de Lumen Hollow que dan ganas de ponerlos de fondo de pantalla.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a014",
+    "source": "steam",
+    "recommended": true,
+    "text": "Un juego chiquito pero lleno de cariño. Pescar con el pajarito al atardecer es lo más relajante que he jugado este año. ¿Qué más puedo decir? Cómprenlo.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a015",
+    "source": "discord",
+    "recommended": null,
+    "text": "when does the autumn festival event start? is it based on the system clock or server time?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a016",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Found this little guy's cousin on my balcony this morning [image]",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a017",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Feature request: an option to turn off the timer in the fishing minigame. My hands shake and the reeling part is really hard for me.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a018",
+    "source": "steam",
+    "recommended": true,
+    "text": "---{ Gráficos }---\n☐ Feos\n☐ Aceptables\n☑ Preciosos\n\n---{ Duración }---\n☐ Largo\n☐ Normal\n☑ Lo terminas en una tarde\n\n---{ Precio }---\n☐ Vale cada peso\n☑ Espera una oferta\n\n---{ Bugs }---\n☑ Ninguno que haya visto\n☐ Algunos menores\n☐ El juego es un bug",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a019",
+    "source": "steam",
+    "recommended": false,
+    "text": "Se crashea cada vez que entro al faro. Perdí como 3 horas de progreso porque el autoguardado no alcanzó a guardar. Así no se puede jugar, y ya pasé las 2 horas así que ni reembolso puedo pedir.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a020",
+    "source": "steam",
+    "recommended": true,
+    "text": "la raja el juego wn, la musica synthwave es otro nivel, me tiene manejando a las 3am 🚗💨",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a021",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "the new update removed the option to skip the intro cutscene?? why would you do that",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a022",
+    "source": "steam",
+    "recommended": false,
+    "text": "Love paying $15 to stare at a loading screen for two minutes before every single race. 10/10 would load again.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a023",
+    "source": "steam",
+    "recommended": true,
+    "text": "peak",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a024",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Check out my channel, I upload Neon Drift speedruns every day!! sub4sub 🙏",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a025",
+    "source": "steam",
+    "recommended": true,
+    "text": "No bugs, no crashes, no microtransactions, no always-online nonsense. Just a tight arcade racer with a banger soundtrack. What else do you want?",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a026",
+    "source": "discord",
+    "recommended": null,
+    "text": "the devs are clueless idiots. whoever designed these fishing controls should be fired on the spot",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a027",
+    "source": "twitch",
+    "recommended": null,
+    "text": "jajaja el pajarito se cayó al agua de nuevo KEKW",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a028",
+    "source": "steam",
+    "recommended": true,
+    "text": "mid",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a029",
+    "source": "steam",
+    "recommended": true,
+    "text": "10/10 sin exagerar, lo volvería a jugar mañana",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a030",
+    "source": "steam",
+    "recommended": true,
+    "text": "Lo recomiendo, pero ojo: la dificultad de los últimos torneos es absurda, los tiempos de oro son casi imposibles y la cámara en los túneles marea. Si te frustras fácil, espera una rebaja.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a031",
+    "source": "steam",
+    "recommended": false,
+    "text": "Wow, 12 tracks and 9 of them are the same city with a different neon filter. Truly innovative. Can't wait to pay $15 for the next palette swap.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a032",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Are there any missable feathers in Lumen Hollow? About to go into the final area and I don't want to lock myself out of 100%.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a033",
+    "source": "steam",
+    "recommended": true,
+    "text": "GOTY",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a034",
+    "source": "discord",
+    "recommended": null,
+    "text": "pls add a ghost of your best lap in time trial, it's literally the only thing missing",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a035",
+    "source": "instagram",
+    "recommended": null,
+    "text": "THIS GAME IS SO GOOD 😭😭😭🐦💛",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a036",
+    "source": "twitch",
+    "recommended": null,
+    "text": "@driftking_22 you're trash at this game, uninstall and kys",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a037",
+    "source": "steam",
+    "recommended": true,
+    "text": "Honestly one of the best cozy games I've played this year. Only thing: the bird sometimes clips through the wooden dock next to the lighthouse and pops back out. Minor, didn't stop me at all.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "bug",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a038",
+    "source": "steam",
+    "recommended": true,
+    "text": "Great little game. Quick question for the devs: do cloud saves sync between Steam Deck and desktop? I want to start on the Deck and finish on PC.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a039",
+    "source": "discord",
+    "recommended": null,
+    "text": "Bug report (Neon Drift v1.3.2, Steam, Win11 23H2, RTX 4060 8GB, driver 566.14, 32GB RAM)\nSteps: 1) Load Chrome Canyon, any car. 2) Pause mid-race. 3) Open Photo Mode. 4) Move the camera below the track.\nResult: game freezes ~2 s then closes to desktop, no error window. Happens 10/10 times. Crash dump is in %LOCALAPPDATA%\\NeonDrift\\Crashes, happy to send it. Didn't happen on 1.3.1.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a040",
+    "source": "reddit",
+    "recommended": null,
+    "text": "PSA: do NOT quit while the spinning feather icon is on screen. I did and my save got corrupted. 11 hours gone. Devs pls add a warning",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a041",
+    "source": "steam",
+    "recommended": true,
+    "text": "Buen juego. Recomendaría marcar en el mapa las plumas que ya recogiste, porque volver a cada zona a revisar es tedioso.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a042",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Propuesta: un modo libre en Neon Drift, sin tiempo ni rivales, solo manejar por la ciudad con la música. Pagaría por eso como DLC.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a043",
+    "source": "discord",
+    "recommended": null,
+    "text": "Neon Drift no me abre en Linux con Proton 9, pantalla negra 2 segundos y se cierra. Con Proton Experimental igual. Le pasa a alguien más?",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a044",
+    "source": "steam",
+    "recommended": false,
+    "text": "$24.99 for a 5 hour game. Beautiful, sure, but no.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a045",
+    "source": "youtube",
+    "recommended": null,
+    "text": "the soundtrack alone is worth the price. been looping Sunset Boulevard for a week straight",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a046",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Deberían subir el soundtrack a Spotify, lo pondría todo el día en la pega",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a047",
+    "source": "steam",
+    "recommended": true,
+    "text": "Reseña para la insignia de los Premios Steam 🏆",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a048",
+    "source": "twitch",
+    "recommended": null,
+    "text": "LUL he missed the jump again",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a049",
+    "source": "youtube",
+    "recommended": null,
+    "text": "cachai que el control de xbox no funciona en los menus del lumen hollow? tengo que agarrar el mouse pa todo, super fome",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a050",
+    "source": "reddit",
+    "recommended": null,
+    "text": "¿La partida de la demo se pasa a la versión completa o hay que empezar de cero? Llegué bastante lejos y me da lata repetir todo.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a051",
+    "source": "steam",
+    "recommended": true,
+    "text": "---{ Graphics }---\n☐ Paint.exe\n☐ Bad\n☐ Decent\n☑ Good\n☐ Beautiful\n\n---{ Gameplay }---\n☐ Just press W\n☐ OK\n☑ Very good\n☐ Try not to get addicted\n\n---{ Audio }---\n☐ Bad\n☐ Good\n☑ Eargasm\n\n---{ Price }---\n☑ Worth the price\n☐ Wait for a sale\n☐ Don't\n\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ The game itself is one big bug",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a052",
+    "source": "twitch",
+    "recommended": null,
+    "text": "Wanna be famous? Buy followers, primes and viewers on streamboost .com",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a053",
+    "source": "twitch",
+    "recommended": null,
+    "text": "el juego tiene subtitulos en español?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a054",
+    "source": "steam",
+    "recommended": false,
+    "text": "Bought the Night Circuit DLC, the payment went through and Steam shows it as owned, but the new tracks never show up in game. Verified files, reinstalled, nothing. I want either a fix or my money back.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a055",
+    "source": "steam",
+    "recommended": true,
+    "text": "Alguien sabe cómo llegar a la pluma dorada que está arriba del molino? Llevo media hora dando vueltas. Por lo demás el juego es precioso.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a056",
+    "source": "discord",
+    "recommended": null,
+    "text": "oye y el logro de pescar todos los peces se desbloquea si los pesque antes del parche o hay que hacerlo de nuevo po?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a057",
+    "source": "steam",
+    "recommended": true,
+    "text": "I don't usually write reviews, but Lumen Hollow deserves one. I played it over three rainy evenings with a cup of tea and it genuinely lowered my blood pressure. You're a tiny bird. You fish, you collect feathers, you help a grumpy old heron fix his roof. That's it, and that's enough. The watercolor art is gorgeous, the soundtrack is soft piano and rain, and there's no fail state anywhere: if you miss a fish, you just try again. I 100%'d it in about 9 hours and immediately started a second file just to hang out in the marsh at night. If you're burned out on games that want to be your second job, this is the antidote. Thank you, NEOINIT, whoever you are.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a058",
+    "source": "youtube",
+    "recommended": null,
+    "text": "🔥 KEYS DE NEON DRIFT GRATIS en mi canal 🔥 link en mi perfil, apúrate que quedan poquitas!!",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a059",
+    "source": "twitch",
+    "recommended": null,
+    "text": "los devs son unos flojos culiaos, ni un parche en 3 meses",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a060",
+    "source": "youtube",
+    "recommended": null,
+    "text": "anyone else stuck on the loading screen after today's update?? been 20 min, can't even get to the menu",
+    "expected": {
+      "sentiment": "negative",
+      "category": "bug",
+      "priority": "high",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a061",
+    "source": "youtube",
+    "recommended": null,
+    "text": "¿Va a salir Lumen Hollow para Switch? Mi hija lo vio en el computador y quiere jugarlo sí o sí 🐦",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a062",
+    "source": "youtube",
+    "recommended": null,
+    "text": "first",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "other",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a063",
+    "source": "youtube",
+    "recommended": null,
+    "text": "you guys should collab with some synthwave artists for a soundtrack DLC",
+    "expected": {
+      "sentiment": "positive",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a064",
+    "source": "steam",
+    "recommended": false,
+    "text": "Me cobraron dos veces el DLC del soundtrack (tengo los dos cargos en la tarjeta) y soporte no responde hace 5 días. No lo recomiendo hasta que me devuelvan la plata.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a065",
+    "source": "instagram",
+    "recommended": null,
+    "text": "Cuándo sale el DLC de Neon Drift?? 🔥🔥🔥",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a066",
+    "source": "steam",
+    "recommended": true,
+    "text": "Sin crashes en 25 horas, cero bugs, corre perfecto en la Steam Deck. Así da gusto.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a067",
+    "source": "steam",
+    "recommended": false,
+    "text": "Quería que me gustara, de verdad. La estética es preciosa y la banda sonora está muy bien, pero:\n1) La IA de los rivales hace rubber banding descarado: en la última vuelta te pasan como si tuvieran nitro infinito.\n2) No se pueden reasignar los controles, y el drift en el gatillo izquierdo es incómodo.\n3) De las 12 pistas, la mitad son la misma ciudad con otra paleta de colores.\n4) El modo carrera se hace repetitivo antes de la mitad.\nPor ahora no lo recomiendo. Si lo parchan, cambio la reseña.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a068",
+    "source": "twitch",
+    "recommended": null,
+    "text": "does this game have a colorblind mode?",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a069",
+    "source": "steam",
+    "recommended": true,
+    "text": "Recommended, but barely. Controls are floaty, the camera fights you in tight corners, and the drift scoring feels inconsistent. The music carries it.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "complaint",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a070",
+    "source": "instagram",
+    "recommended": null,
+    "text": "que bacán el arte!!! 😍😍 se nota el cariño en cada detalle",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a071",
+    "source": "discord",
+    "recommended": null,
+    "text": "El que diseñó el nivel del faro merece que le quemen la casa. Sé dónde queda el estudio, así que ojo.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a072",
+    "source": "steam",
+    "recommended": true,
+    "text": "Buen juego y la música es un temazo, pero en Chrome Canyon cuando llueve el FPS cae de 144 a 50 con una 3070. En las otras pistas va perfecto. Ojalá lo optimicen.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "bug",
+      "priority": "medium",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a073",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "@neoinit any plans for a physical release? my shelf is ready 👀",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a074",
+    "source": "instagram",
+    "recommended": null,
+    "text": "Gana dinero desde tu casa con cripto 💰📈 escríbeme al DM, +500% en una semana garantizado",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a075",
+    "source": "steam",
+    "recommended": true,
+    "text": "wn el juego es la raja pero se me borro la partida entera despues de la actualizacion, tenia 40 plumas y ahora empiezo de cero. arreglenlo porfa po",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "bug",
+      "priority": "high",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a076",
+    "source": "steam",
+    "recommended": true,
+    "text": "Fun but it needs more tracks. Please add a desert or a snow track, 12 tracks gets repetitive fast.",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "suggestion",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a077",
+    "source": "steam",
+    "recommended": true,
+    "text": "Great game! Grab it 70% cheaper at keysbargain dot shop with code DRIFT70 😉",
+    "expected": {
+      "sentiment": "neutral",
+      "category": "spam",
+      "priority": "low",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a078",
+    "source": "youtube",
+    "recommended": null,
+    "text": "Is Neon Drift coming to PS5? Would buy it day one",
+    "expected": {
+      "sentiment": "positive",
+      "category": "question",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a079",
+    "source": "reddit",
+    "recommended": null,
+    "text": "Imagine being so bad you need assist mode lmao. People like you are why every game is getting dumbed down. Pathetic.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a080",
+    "source": "steam",
+    "recommended": false,
+    "text": "fome, pura pesca y juntar plumas, no pasa nada wn. me aburri a la hora",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a081",
+    "source": "bluesky",
+    "recommended": null,
+    "text": "Un estudio chileno haciendo un racer synthwave así de pulido. Orgulloso, cabros 🇨🇱🏁",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a082",
+    "source": "steam",
+    "recommended": true,
+    "text": "Nunca se me cayó, ni un tirón. El drift se siente increíble y la sensación de velocidad es brutal.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a083",
+    "source": "steam",
+    "recommended": false,
+    "text": "Lo compré hace una semana y ya está con 40% de descuento. Me siento estafado.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "complaint",
+      "priority": "low",
+      "language": "es"
+    }
+  },
+  {
+    "id": "a084",
+    "source": "steam",
+    "recommended": false,
+    "text": "Devs banned me from their Discord for 'being rude'. Pathetic snowflakes. Hope your little studio goes bankrupt.",
+    "expected": {
+      "sentiment": "negative",
+      "category": "toxic",
+      "priority": "medium",
+      "language": "en"
+    }
+  },
+  {
+    "id": "a085",
+    "source": "steam",
+    "recommended": true,
+    "text": "200 hours in. I have a job. Send help.",
+    "expected": {
+      "sentiment": "positive",
+      "category": "praise",
+      "priority": "low",
+      "language": "en"
+    }
+  }
+]
